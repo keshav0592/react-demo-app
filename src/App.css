@@ -24,6 +24,14 @@ form > div {
   margin-bottom: 0.5rem;
 }
 
+table,
+tbody,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
 label {
   margin-right: 0.5rem;
 }
